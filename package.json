@@ -1,0 +1,25 @@
+{
+  "name": "@aliadnanaslam/big",
+  "version": "1.0.0",
+  "description": "A random package, that is going to become an npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliadnanaslam/BIG.git"
+  },
+  "keywords": [
+    "npm",
+    "BIG",
+    "big",
+    "package"
+  ],
+  "author": "Ali Adnan Aslam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aliadnanaslam/BIG/issues"
+  },
+  "homepage": "https://github.com/aliadnanaslam/BIG#readme"
+}
