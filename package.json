@@ -1,7 +1,7 @@
 {
   "name": "@aliadnanaslam/big",
   "version": "1.0.0",
-  "description": "A random package, that is going to become an npm package",
+  "description": "BIG is small package, that removes spaces from a given string",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
